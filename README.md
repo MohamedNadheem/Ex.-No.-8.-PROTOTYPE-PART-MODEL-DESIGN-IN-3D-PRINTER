@@ -46,8 +46,8 @@
 
 ## Output:
 ![output](/7.png)
-## Name: Mohamed Nadheem N
-## Register Number: 23014217
+## Name: Jeevan ES 
+## Register Number: 23014210
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
